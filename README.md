@@ -1,6 +1,6 @@
 # Spotify Player using Lanyard API
 
-Display your Spotify Song using Lanyard API.
+VS Code Extension to Display Your Spotify Song Using the Lanyard API
 
 ![Preview](media/Preview.png)
 
