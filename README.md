@@ -1,4 +1,4 @@
-# Spotify Player using Lanyard API
+# Spotify Player for VS Code using Lanyard API
 
 VS Code Extension to Display Your Spotify Song Using the Lanyard API
 
