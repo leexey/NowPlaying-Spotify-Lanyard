@@ -11,6 +11,7 @@ VS Code Extension to Display Your Spotify Song Using the Lanyard API
 
 ### How to Compile
 ```sh
+npm install --save-dev @types/semver --legacy-peer-deps
 npm run compile
 ```
 
